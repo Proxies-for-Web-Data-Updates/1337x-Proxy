@@ -29,7 +29,7 @@ Proxies act as intermediaries between your device and the internet, changing you
 
 ![image](https://github.com/user-attachments/assets/bf355867-a2d1-48cf-ae8c-5cd555dd91d3)
 
-##Access Mirror and Proxy Sites
+## Access Mirror and Proxy Sites
 1337x has multiple mirror and proxy sites that replicate the original platform. These sites often remain accessible even when the primary domain is blocked. Here’s a list of working 1337x proxies and mirrors as of February 2025:
 
 Original Domains:
