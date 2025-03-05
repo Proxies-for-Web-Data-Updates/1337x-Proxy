@@ -3,7 +3,7 @@ Understanding the Blocking of 1337x Torrent Sites.
 
 Torrent websites like 1337x have become a focal point for internet users seeking to share and download files. However, their widespread accessibility has also made them a target for legal and security concerns. Here’s a deeper look into why 1337x and similar torrent sites face blocking and how users can navigate these restrictions.
 
-![image](https://github.com/user-attachments/assets/145535e2-548f-41fe-ae32-0ceadedfaf0d)
+![image](https://github.com/user-attachments/assets/0291058c-0f9b-478f-9717-256ae2784dd4)
 
 # Why Is 1337x Blocked?
 ## Copyright Infringement Issues
@@ -32,17 +32,17 @@ Proxies act as intermediaries between your device and the internet, changing you
 ##Access Mirror and Proxy Sites
 1337x has multiple mirror and proxy sites that replicate the original platform. These sites often remain accessible even when the primary domain is blocked. Here’s a list of working 1337x proxies and mirrors as of February 2025:
 
-- Original Domains:
+Original Domains:
 
-1337x.tw, 1337x.to
+- 1337x.tw, 1337x.to
 
-- Proxy Sites:
+Proxy Sites:
 
-1337x.st, 1337x.pro, x1337x.ws, x1337x.eu
+- 1337x.st, 1337x.pro, x1337x.ws, x1337x.eu
 
-- Mirror Sites:
+Mirror Sites:
 
-1337xx.to, 1337xto.to, 1337xxx.to, 1377x.is
+- 1337xx.to, 1337xto.to, 1337xxx.to, 1377x.is
 
 _Note: Availability may vary, so always verify the site’s authenticity before use._
 
